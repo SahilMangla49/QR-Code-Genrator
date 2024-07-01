@@ -2,7 +2,7 @@
 # QR Code Generator with Logo Overlay
 
 This project shows how to generate a QR code from a URL and overlay an image (such as a logo) onto the QR code using Python. The QR code library used is `qrcode`, and `Pillow` (PIL) is used for image processing.
-# code
+# Python code
 *1.import libraries*
 import qrcode 
 from PIL import Image
